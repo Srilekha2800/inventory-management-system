@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Inventory Management System
 
 A console-based inventory management backend built with Java and MySQL.
@@ -23,4 +23,4 @@ To build an inventory management backend while learning how real-world backend s
 =======
 # inventory-management-system
 A console based inventory management system.
->>>>>>> 0577db4f4a555c0f7c8e83c119eb87e52f46a36f
+
